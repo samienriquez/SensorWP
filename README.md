@@ -1,0 +1,1 @@
+Aplicación WP8, recepción de señales via Bluetooth
